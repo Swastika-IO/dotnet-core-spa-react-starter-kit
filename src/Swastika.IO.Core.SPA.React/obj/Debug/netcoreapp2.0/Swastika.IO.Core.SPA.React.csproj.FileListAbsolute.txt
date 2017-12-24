@@ -1,0 +1,12 @@
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\bin\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.deps.json
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\bin\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.runtimeconfig.json
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\bin\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.runtimeconfig.dev.json
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\bin\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.dll
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.csprojResolveAssemblyReference.cache
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.csproj.CoreCompileInputs.cache
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.AssemblyInfoInputs.cache
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.AssemblyInfo.cs
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\bin\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.pdb
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.dll
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\Swastika.IO.Core.SPA.React.pdb
+F:\_Workspace\_Github\dotnet-core-spa-react-starter-kit\src\Swastika.IO.Core.SPA.React\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
